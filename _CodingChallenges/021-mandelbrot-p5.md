@@ -42,5 +42,12 @@ contributions:
       name: "Juan Carlos Ponce Campuzano"
     url: "https://jcponce.github.io/complex/mandelbrotexplorer/"
     source: "https://github.com/jcponce/complex/tree/gh-pages/mandelbrotexplorer"
+    
+  -title: "Mandelbrot set, explorer with workers
+   author:
+     name: "Lia de Belda"
+     url: "https://github.com/LiaIndex/Projects/tree/master/MandelbrotSet"
+     source: "https://github.com/LiaIndex/Projects/tree/master/MandelbrotSet"
+     
 ---
 In this coding challenge, I program from scratch the Mandelbrot set with p5.js
